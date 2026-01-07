@@ -2,8 +2,7 @@
 
 This project automatically collects **live phishing URLs**, visits them using a headless browser, captures **full-page screenshots**, and stores metadata for building machine learning datasets for phishing website detection.
 
-It helps in creating **large-scale, real-world phishing datasets** without manual effort.
-
+It helps in creating **large-scale, real-world phishing datasets** without manual effort. 
 ---
 
 ## 🚀 Features
