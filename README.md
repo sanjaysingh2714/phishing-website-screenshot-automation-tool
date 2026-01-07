@@ -175,16 +175,6 @@ Pull requests welcome!
 ---
 
 ## 👨‍💻 Author
-
 Made with ❤️ by **Sanjay Singh**
 
 ---
-
-If you want, I can also:
-• convert into GitHub-perfect README style
-• add badges
-• add setup screenshots
-• write documentation for college/project submission
-• add full code + explanation
-
-Just tell me 😎
