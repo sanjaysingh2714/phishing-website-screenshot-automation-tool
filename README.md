@@ -4,7 +4,7 @@ This project automatically collects **live phishing URLs**, visits them using a 
 
 It helps in creating **large-scale, real-world phishing datasets** without manual effort. 
 ---
-
+  
 ## 🚀 Features
 ✔️ Fetches fresh phishing URLs automatically
 ✔️ Adjustable dataset size (Testing vs Full Dataset)
