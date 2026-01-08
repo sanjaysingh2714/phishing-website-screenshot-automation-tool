@@ -6,7 +6,6 @@ It helps in creating **large-scale, real-world phishing datasets** without manua
 ---
 
 ## 🚀 Features
-  
 ✔️ Fetches fresh phishing URLs automatically
 ✔️ Adjustable dataset size (Testing vs Full Dataset)
 ✔️ Automatically opens each site
